@@ -1,0 +1,3 @@
+/ssd_data/recamera/apriltag-reCamera/build/CMakeFiles/test_detection.dir
+/ssd_data/recamera/apriltag-reCamera/build/CMakeFiles/edit_cache.dir
+/ssd_data/recamera/apriltag-reCamera/build/CMakeFiles/rebuild_cache.dir
